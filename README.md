@@ -56,17 +56,17 @@ To build a predictive model that can determine a movie’s potential success usi
       Learned how to remove missing data points to enhance the reliability and accuracy of the dataset for subsequent analyses.
 2. Random forest
 
-      Gained understanding of this ensemble learning method which uses multiple decision trees to improve predictive accuracy and control over-fitting.
-Hyperparameter Tuning
+   Gained understanding of this ensemble learning method which uses multiple decision trees to improve predictive accuracy and control over-fitting.
+   - Hyperparameter Tuning:
+        Acquired skills in optimizing the parameters of machine learning models to maximize their performance on specific datasets.
+3. Logistic Regression
 
-Acquired skills in optimizing the parameters of machine learning models to maximize their performance on specific datasets.
-Logistic Regression
+   Studied this statistical model used for binary classification tasks, learning how to predict categorical outcomes based on given predictors.
+4. One Hot Encoding
 
-Studied this statistical model used for binary classification tasks, learning how to predict categorical outcomes based on given predictors.
-One Hot Encoding
-
-Mastered the technique of converting categorical variables into binary vectors necessary for model processing and improving performance.
-Concepts of F1 score, precision
+   Mastered the technique of converting categorical variables into binary vectors necessary for model processing and improving performance.
+   
+5. Concepts of F1 score, precision
 
 Learned to evaluate model performance using precision (accuracy of positive predictions) and F1 score (harmonic mean of precision and recall), crucial for balancing the trade-off between the two in classification problems.
 
