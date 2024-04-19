@@ -77,3 +77,20 @@ To build a predictive model that can determine a movie’s potential success usi
 
 ### References
 
+https://www.kaggle.com/datasets/victorsoeiro/netflix-tv-shows-and-movies
+
+https://www.analyticsvidhya.com/blog/2021/08/conceptual-understanding-of-logistic-regression-for-data-science-beginners/
+
+https://saturncloud.io/blog/how-to-delete-rows-with-null-values-in-a-specific-column-in-pandas-dataframe/#:~:text=Deleting%20rows%20with%20null%20values%20in%20a%20specific%20column%20can,values%20in%20the%20specified%20column.
+
+https://towardsdatascience.com/logistic-regression-and-decision-boundary-eab6e00c1e8
+
+https://towardsdatascience.com/accuracy-precision-recall-or-f1-331fb37c5cb9
+
+
+
+
+
+
+
+
