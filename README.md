@@ -18,6 +18,9 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 
 @roniathomas - Random Forest,Exploratory Data Analysis, Data Visualisation
 
+@Afzaana512 - Problem Definition
+
+
 ### Problem Definition
 
 To build a predictive model that can determine a movie’s potential success using a range of movie characteristics.
