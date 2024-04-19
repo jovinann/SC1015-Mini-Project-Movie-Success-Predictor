@@ -14,7 +14,9 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 
 ### Contributors
 
-@jovinann - Logistic Regression, Data Cleaning and Preparation,Data Visualisation
+@jovinann- Logistic Regression, Data Cleaning and Preparation,Data Visualisation
+
+
 @roniathomas - Random Forest,Exploratory Data Analysis, Data Visualisation
 
 ### Problem Definition
