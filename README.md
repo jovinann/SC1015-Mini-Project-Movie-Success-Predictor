@@ -16,7 +16,6 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 
 @jovinann- Logistic Regression, Data Cleaning and Preparation,Data Visualisation
 
-
 @roniathomas - Random Forest,Exploratory Data Analysis, Data Visualisation
 
 ### Problem Definition
@@ -25,9 +24,9 @@ To build a predictive model that can determine a movie’s potential success usi
 
 ### Models Used
 
-Random Forest
+1. Random Forest
 
-Logistic Regression
+2. Logistic Regression
 
 ### Conclusion
 
