@@ -15,7 +15,7 @@ Logistic Regression
 Contributors
 
 @jovinann - Logistic Regression, Data Cleaning and Preparation,Data Visualisation
-@RoniaThomas - Random Forest,Exploratory Data Analysis, Data Visualisation
+@roniathomas - Random Forest,Exploratory Data Analysis, Data Visualisation
 
 Problem Definition
 
