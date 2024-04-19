@@ -6,7 +6,7 @@
 
 This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on movies from Netflix TV Shows and Movies in Kaggle Dataset. For detailed walkthrough, please view the source code in order from:
 
-1. Data Cleaning and Preparation
+1. [Data Cleaning and Preparation](./DataCleaningAndPreparation.ipynb)
 2. Exploratory Data Analysis
 3. Data Visualisation
 4. Random Forest
