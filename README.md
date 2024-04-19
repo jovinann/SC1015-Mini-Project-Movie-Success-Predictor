@@ -26,6 +26,7 @@ To build a predictive model that can determine a movie’s potential success usi
 ### Models Used
 
 Random Forest
+
 Logistic Regression
 
 ### Conclusion
