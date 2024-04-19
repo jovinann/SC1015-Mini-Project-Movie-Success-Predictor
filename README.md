@@ -70,7 +70,7 @@ To build a predictive model that can determine a movie’s potential success usi
    
 5. **Concepts of F1 score, precision**
 
-Learned to evaluate model performance using precision (accuracy of positive predictions) and F1 score (harmonic mean of precision and recall)
+   Learned to evaluate model performance using precision (accuracy of positive predictions) and F1 score (harmonic mean of precision and recall)
 
 
 
