@@ -2,7 +2,7 @@
 ## Movie Success Predictor:  Unveiling Hits and Flops
 ### Welcome to movie-success-predictor repository
 
-###About:
+### About:
 
 This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on movies from Netflix TV Shows and Movies in Kaggle Dataset. For detailed walkthrough, please view the source code in order from:
 
