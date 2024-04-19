@@ -48,6 +48,18 @@ To build a predictive model that can determine a movie’s potential success usi
 
 
 ### What did we learn from this project?
+- Cleaning: Dropping null values
+  
+- Random forest:
+   1. Hyperparameter Tuning
+      
+- Logistic Regression
+  
+- One Hot Encoding
+  
+- Concepts of F1 score, precision
+
+
 
 
 ### References
