@@ -86,6 +86,10 @@ https://towardsdatascience.com/logistic-regression-and-decision-boundary-eab6e00
 
 https://towardsdatascience.com/accuracy-precision-recall-or-f1-331fb37c5cb9
 
+https://www.ibm.com/topics/random-forest
+
+https://www.geeksforgeeks.org/hyperparameter-tuning/
+
 
 
 
