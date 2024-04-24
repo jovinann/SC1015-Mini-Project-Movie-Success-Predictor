@@ -80,7 +80,7 @@ To build a predictive model that can determine a movie’s potential success usi
 
 ### References
 
-[https://www.kaggle.com/datasets/victorsoeiro/netflix-tv-shows-and-movies](https://www.kaggle.com/datasets/danielgrijalvas/movies)
+https://www.kaggle.com/datasets/danielgrijalvas/movies
 
 https://www.analyticsvidhya.com/blog/2021/08/conceptual-understanding-of-logistic-regression-for-data-science-beginners/
 
