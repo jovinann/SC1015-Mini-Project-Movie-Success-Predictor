@@ -14,6 +14,7 @@ For detailed walkthrough, please view the source code in order from:
 2. [Exploratory Data Analysis and Data Visualisation](./ExploratoryDataAnalysisAndDataVisualisation.ipynb)
 3. [Random Forest](./RandomForest.ipynb)
 4. [Logistic Regression](./LogisticRegression.ipynb)
+5. [Full Codebase for reference](./finalcodebase.ipynb)
 
 ### Contributors
 
