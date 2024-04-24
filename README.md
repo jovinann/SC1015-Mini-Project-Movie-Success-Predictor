@@ -4,7 +4,11 @@
 
 ### About:
 
-This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on movies (from IMDB) in the years 1986-2016 in Kaggle Dataset. For detailed walkthrough, please view the source code in order from:
+This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on movies (from IMDB) in the years 1986-2016 in Kaggle Dataset. Our goal is to create a comprehensive movie score predicting system that draws insights from real-world investment challenges. Analyzing film financial viability helps investors to make informed decisions on whether to invest in certain movies.
+
+
+
+For detailed walkthrough, please view the source code in order from:
 
 1. [Data Cleaning and Preparation](./DataCleaningAndPreparation.ipynb)
 2. [Exploratory Data Analysis and Data Visualisation](./ExploratoryDataAnalysisAndDataVisualisation.ipynb)
