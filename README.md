@@ -4,7 +4,7 @@
 
 ### About:
 
-This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on movies from Netflix TV Shows and Movies in Kaggle Dataset. For detailed walkthrough, please view the source code in order from:
+This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on movies (from IMDB) in the years 1986-2016 in Kaggle Dataset. For detailed walkthrough, please view the source code in order from:
 
 1. [Data Cleaning and Preparation](./DataCleaningAndPreparation.ipynb)
 2. [Exploratory Data Analysis and Data Visualisation](./ExploratoryDataAnalysisAndDataVisualisation.ipynb)
@@ -76,7 +76,7 @@ To build a predictive model that can determine a movie’s potential success usi
 
 ### References
 
-https://www.kaggle.com/datasets/victorsoeiro/netflix-tv-shows-and-movies
+[https://www.kaggle.com/datasets/victorsoeiro/netflix-tv-shows-and-movies](https://www.kaggle.com/datasets/danielgrijalvas/movies)
 
 https://www.analyticsvidhya.com/blog/2021/08/conceptual-understanding-of-logistic-regression-for-data-science-beginners/
 
